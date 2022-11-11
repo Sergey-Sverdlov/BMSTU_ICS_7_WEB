@@ -12,5 +12,6 @@
 * Оформление заказов
 
 # Use - Case диаграмма
-![USE-Case диаграмма drawio](https://user-images.githubusercontent.com/61983829/201441489-4e15af81-e34f-4258-870f-f6ac73980eb5.png)
+![USE-Case диаграмма drawio — копия](https://user-images.githubusercontent.com/61983829/201441652-304ea906-1ab4-4c08-ae5f-e5b6aa6af9cc.svg)
+
 
